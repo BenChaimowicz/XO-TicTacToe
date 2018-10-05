@@ -1,0 +1,7 @@
+D:\Projects\XO\XO\bin\TypeScriptHTMLApp1.dll.config
+D:\Projects\XO\XO\bin\TypeScriptHTMLApp1.dll
+D:\Projects\XO\XO\bin\TypeScriptHTMLApp1.pdb
+D:\Projects\XO\XO\obj\Debug\XO.csprojAssemblyReference.cache
+D:\Projects\XO\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+D:\Projects\XO\XO\obj\Debug\TypeScriptHTMLApp1.dll
+D:\Projects\XO\XO\obj\Debug\TypeScriptHTMLApp1.pdb
